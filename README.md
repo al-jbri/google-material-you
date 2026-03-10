@@ -1,23 +1,20 @@
-# Google Material You Redesign 🎨
+# Google Material You Redesign (Archived)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Google](https://img.shields.io/badge/Material_Design_3-4285F4?style=for-the-badge&logo=google&logoColor=white)
+> **Note:** This project has been archived. It was a hands-on practice project built during my early learning journey to master CSS fundamentals and web UI layouts. It is no longer under active development.
 
-A modern, responsive redesign of the Google homepage inspired by **Material You (Material Design 3)** aesthetics.
+## About the Project
+A simple Google Material You Redesign to the material you design language, The primary goals of this learning project were to practice:
+* Using `Flexbox` and make a responsive pages.
+* a challenge for me to Building the project in one day (almost).
 
-This project was built from scratch using pure **HTML & CSS** as a **one-day speed coding challenge** to refresh frontend fundamentals.
+##  Preview
+![Project Screenshot](preview.png)
 
-![Project Preview](preview.png)
+## How to run?
+You can clone the repo using:
+```bash
+git clone https://github.com/al-jbri/google-material-you
+```
+and run the `index.html` file
 
-## ✨ Features
-
-- **Material You Aesthetics:** Dark mode with pastel accents and rounded UI elements.
-- **Glowing Search Bar:** Custom CSS glow effect using pseudo-elements.
-- **Fully Responsive:** Adapts seamlessly to mobile and desktop screens.
-- **No Frameworks:** Built with 100% vanilla CSS (Flexbox & CSS Variables).
-
-## 🚀 Live Demo
-
-Check out the live version here:
-[**View Project**](https://al-jbri.github.io/google-material-you/)
+thanks :)
